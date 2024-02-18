@@ -1,0 +1,35 @@
+# Dia 1 - Estatística Descritiva
+
+Estatística é um conjunto de ferramentas utilizadas para cálculos que nos auxiliam a sumarizar e entender os dados.
+
+### População X Amostra
+
+Amostra -> 
+- É o recorte da população;
+- Parcela da população.
+
+
+### Tipos de variáveis
+
+
+Existem dois tipos principais de variáveis ​​em estatística: qualitativas (ou categóricas) e quantitativas.
+
+As variáveis qualitativas não podem ser medidas numericamente, ou seja, não podem ser quantificadas com uma régua. Elas se dividem em dois subtipos: nominais e ordinais.
+
+Variáveis nominais não possuem nenhuma ordem hierárquica. Por exemplo, cores, sexo, cor dos olhos, fumante/não fumante, e profissões são exemplos de variáveis nominais. Não é possível classificar ou ordenar essas categorias de forma significativa.
+
+Já as variáveis ordinais apresentam alguma ordem ou hierarquia em seus resultados. Embora não possam ser medidas numericamente, como a graduação, pós-graduação, mês de observação, faixa etária e trilha de carreira, elas têm uma ordem implícita.
+
+As variáveis quantitativas, por outro lado, são expressas numericamente e resultam de contagens ou mensurações. Elas também se dividem em dois subtipos: discretas e contínuas.
+
+As variáveis discretas representam conjuntos finitos ou enumeráveis de números, resultantes de contagens, como número de filhos, número de bactérias por amostra ou número de copos de cerveja tomados por dia.
+
+Já as variáveis contínuas pertencem a intervalos de números reais e representam medidas, como altura ou peso de uma pessoa, tempo (relógio), pressão arterial, temperatura, distância, volume e área. Nesses casos, números fracionais são relevantes e fazem sentido.
+
+Além disso, as variáveis podem ser classificadas quanto à quantidade de características que representam:
+
+Variáveis unidimensionais: fornecem informações sobre uma única característica, como a idade dos alunos de uma turma.
+
+Variáveis bidimensionais: armazenam informações sobre duas características, como idade e renda dos trabalhadores de uma cidade.
+
+Variáveis pluridimensionais: detêm informações sobre três ou mais características, como idade, altura e peso dos alunos de uma turma.
