@@ -2,8 +2,12 @@
 
 # Semana 1 - Estatística e probabilidade com Python
 
-## Dia 1 - Conceitos básicos: 
-- frequências
+## Dia 1 - Básico da estatística descritiva: 
+- Frequências
 - Medidas de tendência central
 - Medidas de dispersão
 - Medidas de posição
+- Distribuições
+
+## Dia 2 - Básico da estatística inferencial
+- População e amostra
