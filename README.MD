@@ -11,3 +11,6 @@
 
 ## Dia 2 - Básico da estatística inferencial
 - População e amostra
+- - Amostra aleatória simples
+- - Amostra sistemática
+- - Amostra estratificada
