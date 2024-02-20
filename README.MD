@@ -18,3 +18,5 @@
         - Amostragem probabilística por conglomerado (cluster)
     - Amostragem não probabilística:
         - Amostragem por conveniência
+
+## Dia 3 - Testes de hipótese
